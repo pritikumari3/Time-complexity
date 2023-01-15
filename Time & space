@@ -1,0 +1,16 @@
+1.
+Time=O(N+M)
+space=O(1)
+
+2.
+Time=O(N^2)
+
+3.
+Time=O(nlogn)
+
+4.
+Time=O(logN)
+
+5.
+Time=O(log basek n)
+
